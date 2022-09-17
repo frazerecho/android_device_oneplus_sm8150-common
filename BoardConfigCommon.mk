@@ -76,10 +76,6 @@ USE_CUSTOM_AUDIO_POLICY := 1
 # Bluetooth
 TARGET_USE_QTI_BT_STACK := true
 
-# Camera
-TARGET_USES_QTI_CAMERA_DEVICE := true
-USE_DEVICE_SPECIFIC_CAMERA := true
-
 # FOD
 TARGET_SURFACEFLINGER_UDFPS_LIB := //hardware/oneplus:libudfps_extension.oneplus
 
